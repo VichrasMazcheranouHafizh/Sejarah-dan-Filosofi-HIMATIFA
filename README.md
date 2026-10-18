@@ -17,7 +17,11 @@ Presentasi mencakup:
 
 ## Cara membuka
 
-Tidak perlu instalasi atau dependensi tambahan. Buka [Sejarah dan Filosofi HIMATIFA.html](./Sejarah%20dan%20Filosofi%20HIMATIFA.html) menggunakan browser modern.
+Tidak perlu instalasi atau dependensi tambahan. Buka [index.html](./index.html) menggunakan browser modern.
+
+## Deploy ke Vercel
+
+Impor repository ini di Vercel dan gunakan pengaturan default. Situs berupa halaman statis, sehingga tidak memerlukan framework, build command, maupun output directory khusus. Vercel akan menyajikan `index.html` dari root repository sebagai halaman utama.
 
 ## Navigasi presentasi
 
